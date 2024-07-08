@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "moment-timezone": "^0.5.45",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "dayboarding-attendance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
